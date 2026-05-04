@@ -1,7 +1,7 @@
 Repository with scripts used for temporal, descriptive, and visualization analyses of Klebsiella pneumoniae genomic data.
 
 Scripts included:
-- Main.R: generates data for Table_1. (R)
+- Table1.R: generates data for Table_1. (R)
 - package_code_logistic_regression_amr_ma3_region_income_for_classes_MDR_XDR_NMDR.py: generates temporal trend analyses and summary figures for 12 antimicrobial resistance classes, MDR, XDR, and N_MDR by region and income group. (Python)
 - package_code_virulence_logistic_regression_ma3_region_income.py: generates temporal trend analyses for virulence-related outcomes by region and income group.(Python)
 - data_trends_AMR_genes.py: builds isolate-level ARG presence/absence matrices and performs temporal trend analyses for selected ARGs by region and income group.(Python)
