@@ -13,3 +13,5 @@ Scripts included:
 - code_Sts_and_KL.py: generates packed-circle visualizations for relationships among STs, K-loci, carbapenemases, and ESBLs.(Python)
 - code_treemap.py: generates treemap visualizations of ST distributions within selected carbapenemases and ESBLs.(Python)
 - code_counts.py: produces descriptive count tables of resistance, MDR/XDR, and virulence outcomes by region and income group.(Python)
+- analizyer.py: Calculation and graphic generation for sample distribution figures (region, income group, year). (Python)
+- heatmaps: Multi-panel AMR gene prevalence heatmaps. (Python)
